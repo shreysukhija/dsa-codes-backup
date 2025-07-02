@@ -16,6 +16,7 @@ int getNum(vector<int> &arr, int n){
 
 vector<int> makeArr(int n){
 	dikha
+	gdg
 
 	vector<int> ans;
 	int temp=0;
